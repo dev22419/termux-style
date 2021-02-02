@@ -5,7 +5,7 @@ To style your termux you have to follow some steps :
 
 1)apt install git
 
-2)git clone 
+2)git clone https://github.com/dev22419/termux-style
 
 3)chmod +x r.sh 
 
